@@ -61,10 +61,10 @@
   </a>
 
   <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-    <img alt="início" src="./public/img/focoPraticaGrupo.png" style="margin: 10px 10px" />
-    <img alt="início" src="./public/img/neverStopLarning.png" style="margin: 10px 10px" />
-    <img alt="início" src="./public/img/newMission.png" style="margin: 10px 10px" />
-    <img alt="início" src="./public/img/missionComplete.png" style="margin: 10px 10px" />
+    <img alt="início" src="./public/img/focoPraticaGrupo.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
+    <img alt="início" src="./public/img/neverStopLarning.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
+    <img alt="início" src="./public/img/newMission.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
+    <img alt="início" src="./public/img/missionComplete.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
   </div>
 </div>
 
@@ -80,12 +80,18 @@
 </p>
 
 ### Executando o projeto
-<p align="start">
-  1. <strong>Clone o projeto</strong>: Abra o terminal na pasta que desejar e digite: <p style="color: #4361ee;">git clone https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat.git</p>
-  ou <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/archive/main.zip">clique aqui</a> e baixe o projeto diretamente e extraia os arquivos onde desejar.
 
-  2. <p><strong>Intale as dependências do projeto</strong>: Com o VSCode aberto abra o terminal com "Ctrl+" " (aspas abaixo do Esc) com o terminal aberto digite "<strong style="color: #4361ee;">npm install</strong> ou <strong style="color: #4361ee;">yarn install</strong>"</p>
+<div>
+  <p align="start">
+    1. <strong>Clone o projeto</strong>: Abra o terminal na pasta que desejar e digite: <a style="color: #4361ee;">git clone https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat.git</a> ou <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/archive/main.zip">clique aqui</a> e baixe o projeto diretamente e extraia os arquivos onde desejar.
+  </p>
+
+  <p align="start">
+    2. <strong>Intale as dependências do projeto</strong>: Com o VSCode aberto abra o terminal com "Ctrl+" " (aspas abaixo do Esc) com o terminal aberto digite "<strong style="color: #4361ee;">npm install</strong> ou <strong style="color: #4361ee;">yarn install</strong>"
+  </p>
   
-  3. <strong>Execute o projeto</strong>: Com o terminal aberto digite "<strong style="color: #4361ee;">npm run dev</strong> ou <strong style="color: #4361ee;">yarn dev</strong>" abra seu navegador e digite "localhost:3000"
-</p>
+  <p align="start">
+    3. <strong>Execute o projeto</strong>: Com o terminal aberto digite "<strong style="color: #4361ee;">npm run dev</strong> ou <strong style="color: #4361ee;">yarn dev</strong>" abra seu navegador e digite "localhost:3000"
+  </p>
+</div>
 </div>

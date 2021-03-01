@@ -20,7 +20,7 @@
 <h1 align="center">Move.it<ht>
 <br></br>
 <h4 align="center"> 
-	🚧  Moveit <img alt="icon moveit" src="./public/favicon.png" height="27" /> Concluído 🚀 🚧
+	🚧  Moveit <img alt="icon moveit" src="./public/favicon.png" height="25" /> Concluído 🚀 🚧
 </h4>
 
 <p align="center">
@@ -54,9 +54,10 @@
 
 <div>
   <p>O <strong>Layout</strong> completo está disponível no Figma <br></br></p>
-  <a align="center" href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate?node-id=160%3A2761">
-    <img alt="Made by tiagoluchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <a style="text-align: center" href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate?node-id=160%3A2761">
+    <img align="center" alt="Made by tiagoluchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
   </a>
+  <br />
 
   <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex: 1;">
     <img alt="início" src="./public/img/focoPraticaGrupo.png" style="margin: 10px 10px" />
@@ -81,7 +82,7 @@
 
 <div>
   <p align="start">
-    1. <strong>Clone o projeto</strong>: Abra o terminal na pasta que desejar e digite: <p style="color: #4361ee;">git clone https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat.git</p> ou <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/archive/main.zip">clique aqui</a> e baixe o projeto diretamente e extraia os arquivos onde desejar.
+    1. <strong>Clone o projeto</strong>: Abra o terminal na pasta que desejar e digite: <strong style="color: #4361ee;">git clone https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat.git</strong> ou <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/archive/main.zip">clique aqui</a> e baixe o projeto diretamente e extraia os arquivos onde desejar.
   </p>
 
   <p align="start">
@@ -120,8 +121,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ## 🐱‍👤 Autor
 
-<br />
-<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
+<img style="border-radius: 50%; width: 7rem" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" />
 <sub><b>Rodrigo junior 🚀</b></sub>
 
 <br />

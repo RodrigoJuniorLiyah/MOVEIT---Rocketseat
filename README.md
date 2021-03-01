@@ -54,7 +54,7 @@
 
 <div>
   <p>O <strong>Layout</strong> completo está disponível no Figma <br></br></p>
-  <a style="right: 50%;" href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate?node-id=160%3A2761">
+  <a href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate?node-id=160%3A2761">
     <img alt="Made by tiagoluchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
   </a>
   <br />
@@ -76,7 +76,7 @@
 
 <div>
 <p align="center">
-  Para executar este projeto você precisara de um editor de texto(código). Recomendo a utilização do VSCode por ser mais completo e fácil entendimento, para baixa-lo <a href="https://code.visualstudio.com/Download">Clique aqui</a>
+  Para executar este projeto você precisara de um editor de texto(código). Recomendo a utilização do VSCode por ser mais completo e fácil entendimento. Para baixa-lo <a href="https://code.visualstudio.com/Download">Clique aqui</a>
 </p>
 
 ### Executando o projeto
@@ -87,7 +87,7 @@
   </p>
 
   <p align="start">
-    2. <strong>Intale as dependências do projeto</strong>: Com o VSCode aberto abra o terminal com "Ctrl+" " (aspas abaixo do Esc) com o terminal aberto digite "<strong style="color: #4361ee;">npm install</strong> ou <strong style="color: #4361ee;">yarn install</strong>"
+    2. <strong>Intale as dependências do projeto</strong>: Com o VSCode aberto abra o terminal com "Ctrl+"(aspas abaixo do Esc)"  com o terminal aberto digite "<strong style="color: #4361ee;">npm install</strong>" ou "<strong style="color: #4361ee;">yarn install</strong>"
   </p>
   
   <p align="start">

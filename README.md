@@ -25,7 +25,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-Funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -42,11 +42,11 @@
 
 ## ⚙️ Funcionalidades
 
- - [✔] Iniciar timer de trabalho
- - [✔] Cancelar timer de trabalho
- - [✔] Realizar desafios
- - [✔] Subir de Level
- - [✔] Verificar level atual e quanto falta para subir
+- [✔] Iniciar timer de trabalho
+- [✔] Cancelar timer de trabalho
+- [✔] Realizar desafios
+- [✔] Subir de Level
+- [✔] Verificar level atual e quanto falta para subir
 
 ---
 
@@ -81,7 +81,7 @@
 
 <div>
   <p align="start">
-    1. <strong>Clone o projeto</strong>: Abra o terminal na pasta que desejar e digite: <a style="color: #4361ee;">git clone https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat.git</a> ou <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/archive/main.zip">clique aqui</a> e baixe o projeto diretamente e extraia os arquivos onde desejar.
+    1. <strong>Clone o projeto</strong>: Abra o terminal na pasta que desejar e digite: <p style="color: #4361ee;">git clone https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat.git</p> ou <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/archive/main.zip">clique aqui</a> e baixe o projeto diretamente e extraia os arquivos onde desejar.
   </p>
 
   <p align="start">
@@ -97,4 +97,34 @@
 
 ## 🛠 Tecnologias
 
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[ReactJs](https://reactjs.org/)**
+- **[Next.js](https://nextjs.org/)**
+
+  > Veja o arquivo [package.json](https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/blob/main/package.json)
+
+---
+
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+
+---
+
+## 🐱‍👤 Autor
+
+<br />
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
+<sub><b>Rodrigo junior 🚀</b></sub>
+
+<br />
+
+[![Twitter Badge](https://img.shields.io/badge/-@Legend_Attack-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/Legend_Attack) [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-junior/)](https://www.linkedin.com/in/rodrigo-junior-969184166/)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigohtxpro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigohtxpro@gmail.com)](mailto:rodrigohtxpro@gmail.com)

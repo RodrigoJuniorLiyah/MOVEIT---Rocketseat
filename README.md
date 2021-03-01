@@ -54,9 +54,10 @@
 
 <div>
   <p>O <strong>Layout</strong> completo está disponível no Figma <br></br></p>
-  <a style="text-align: center" href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate?node-id=160%3A2761">
-    <img align="center" alt="Made by tiagoluchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <a style="right: 50%;" href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate?node-id=160%3A2761">
+    <img alt="Made by tiagoluchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
   </a>
+  <br />
   <br />
 
   <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex: 1;">
@@ -121,7 +122,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ## 🐱‍👤 Autor
 
-<img style="border-radius: 50%; width: 7rem" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" />
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
 <sub><b>Rodrigo junior 🚀</b></sub>
 
 <br />

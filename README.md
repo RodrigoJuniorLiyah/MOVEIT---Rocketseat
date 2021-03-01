@@ -42,13 +42,11 @@
 
 ## ⚙️ Funcionalidades
 
- <p>
  - [✔] Iniciar timer de trabalho
  - [✔] Cancelar timer de trabalho
  - [✔] Realizar desafios
  - [✔] Subir de Level
  - [✔] Verificar level atual e quanto falta para subir
- </p>
 
 ---
 
@@ -60,11 +58,11 @@
     <img alt="Made by tiagoluchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
   </a>
 
-  <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-    <img alt="início" src="./public/img/focoPraticaGrupo.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
-    <img alt="início" src="./public/img/neverStopLarning.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
-    <img alt="início" src="./public/img/newMission.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
-    <img alt="início" src="./public/img/missionComplete.png" style="margin: 10px 10px; object-fit: cover" height="350" width="700" />
+  <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex: 1;">
+    <img alt="início" src="./public/img/focoPraticaGrupo.png" style="margin: 10px 10px" />
+    <img alt="início" src="./public/img/neverStopLarning.png" style="margin: 10px 10px" />
+    <img alt="início" src="./public/img/newMission.png" style="margin: 10px 10px" />
+    <img alt="início" src="./public/img/missionComplete.png" style="margin: 10px 10px" />
   </div>
 </div>
 
@@ -94,4 +92,9 @@
     3. <strong>Execute o projeto</strong>: Com o terminal aberto digite "<strong style="color: #4361ee;">npm run dev</strong> ou <strong style="color: #4361ee;">yarn dev</strong>" abra seu navegador e digite "localhost:3000"
   </p>
 </div>
-</div>
+
+---
+
+## 🛠 Tecnologias
+
+
